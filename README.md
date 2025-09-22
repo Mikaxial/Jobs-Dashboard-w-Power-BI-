@@ -13,13 +13,19 @@ You can access and explore the Power BI file here:
 ---
 
 ## 🛠️ Skills Showcased
-This project highlights multiple **data and analytical skills**, including:
-- **Power BI** – Building an interactive, user-friendly dashboard  
-- **Data Modeling** – Creating and managing relationships between tables  
-- **ETL (Extract, Transform, Load)** – Cleaning and preparing data in Power Query  
-- **DAX (Data Analysis Expressions)** – Writing measures and calculated columns for analysis  
-- **Data Visualization** – Designing visuals that communicate insights effectively  
-- **Analytical Thinking** – Identifying KPIs and structuring them for reporting  
+
+This project was a hands-on tour of key Power BI features. Highlights:
+
+- ⚙️ **Power Query (Data Prep / ETL)** — Cleaned and shaped raw data: handled blanks, fixed data types, and created helper columns so the dataset was analysis-ready.  
+- 🧮 **Implicit measures & simple calculations** — Used visual-level aggregations and basic measures to surface metrics like median yearly salary and total job count.  
+- 📊 **Core visualizations** — Built column, bar, line, and area charts to compare roles and reveal trends over time.  
+- 🗺️ **Geospatial mapping** — Plotted job locations on map visuals to reveal geographic patterns and hotspots.  
+- 🔢 **KPIs & detail tables** — Designed cards for top metrics and sortable tables for drillable, row-level detail.  
+- 🎨 **Dashboard design** — Created a clear, user-friendly layout and chose chart types that best answer each question.  
+- 🖱️ **Interactive UX** — Added interactivity to explore the data:
+  - **Slicers** for quick filtering (e.g., by Job Title)  
+  - **Buttons & Bookmarks** to navigate report views smoothly  
+  - **Drill-through** pages to jump from summary visuals into deeper, contextual detail
 
 ---
 
